@@ -1,0 +1,31 @@
+_repo: The-principal-girl_68069
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Snaith, J. C. (John Collis)
+    alias: Snaith, John Collis
+    birthdate: 1876
+    deathdate: 1936
+    gutenberg_agent_id: '37216'
+    url: http://www.gutenberg.org/2009/agents/37216
+    wikipedia: https://en.wikipedia.org/wiki/John_Snaith
+description: ''
+gutenberg_issued: '2022-05-13'
+identifiers:
+  gutenberg: '68069'
+language: en
+pgterms:marc904: https://archive.org/details/principalgirl00snai
+pgterms:marc905: 20181208141748snaith
+pgterms:marc906: '1912'
+pgterms:marc907: US
+production_note: D A Alexander and the Online Distributed Proofreading D A Alexander
+  and the Online Distributed Proofreading Team at https://www.pgdp.net (This file
+  was produced from images generously made available by the Library of Congress)
+publication_note: United States :Moffat, Yard and Company,1912.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The principal girl
+url: http://www.gutenberg.org/ebooks/68069
